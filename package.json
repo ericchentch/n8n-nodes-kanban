@@ -1,6 +1,6 @@
 {
 	"name": "@swifttechvn/n8n-nodes-kanban",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Kanban Action node",
 	"license": "MIT",
 	"homepage": "",
