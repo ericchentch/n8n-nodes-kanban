@@ -1,6 +1,6 @@
 {
-	"name": "@swifttech/n8n-nodes-kanban",
-	"version": "0.1.0",
+	"name": "@swifttechvn/n8n-nodes-kanban",
+	"version": "1.0.0",
 	"description": "Kanban Action node",
 	"license": "MIT",
 	"homepage": "",
@@ -8,12 +8,12 @@
 		"n8n-community-node-package"
 	],
 	"author": {
-		"name": "Eric Tran",
-		"email": "admin@Macbook-EricTran.local"
+		"name": "ericchentch",
+		"email": "ericchen.tch@gmail.com"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ericchentch/n8n-nodes-kanban.git"
+		"url": "https://github.com/ericchentch/n8n-nodes-kanban"
 	},
 	"scripts": {
 		"build": "n8n-node build",
